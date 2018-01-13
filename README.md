@@ -9,7 +9,7 @@ Herrala, Eeva & Feoktistov, Aleksandr. 1998. Mokšalais-suomalainen sanakirja / 
 # Cite
 If you use this library in an academic publication, I would be ever so grateful if you cited it as follows:
 
-Jack Rueter. (2018, January 11). Moksha to X nouns (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1146846
+Eeva Herrala, Jack Rueter, Merja Salo. (2018, January 11). Moksha to X nouns (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1146846
 
 [![DOI](https://zenodo.org/badge/1146846.svg)](https://zenodo.org/badge/latestdoi/1146846)
 
