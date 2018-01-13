@@ -11,5 +11,6 @@ If you use this library in an academic publication, I would be ever so grateful 
 
 Eeva Herrala, Jack Rueter, Merja Salo. (2018, January 11). Moksha to X nouns (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1146846
 
-[![DOI](https://zenodo.org/badge/1146846.svg)](https://zenodo.org/badge/latestdoi/1146846)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1146846.svg)](https://doi.org/10.5281/zenodo.1146846)
+
 
