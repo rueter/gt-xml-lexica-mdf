@@ -7,7 +7,7 @@ Materials are based on lexical work by Eeva Herrala and Aleksandr Feoktistov tha
 Herrala, Eeva & Feoktistov, Aleksandr. 1998. Mokšalais-suomalainen sanakirja / Мокшень-финнонь валкс. Turun yliopiston suomalaisen ja yleisen kielitieteen laitoksen julkaisuja / Publications of the Department of Finnish and General Linguistics of the University of Turku. 58. -- Turku.
 
 # Cite
-If you use this library in an academic publication, I would be ever so grateful if you cited it as follows:
+If you use this data set in an academic publication, I would be ever so grateful if you cited it as follows:
 
 Eeva Herrala, Jack Rueter, Merja Salo. (2018, January 11). Moksha to X nouns (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1146846
 
